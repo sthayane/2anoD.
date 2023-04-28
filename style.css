@@ -1,7 +1,9 @@
-header{
-    background-color: rgb(209, 172, 243); display: flex;
 
 }
-.imagem{
-    width: ;
-}
+header{
+ background-color: rgb(209, 172, 243); color:rgb(9, 9, 34); display:flex;
+    justify-content: space-around;
+font-size: large;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+    .cabecalho-imagem{
+ width: 100%;}
